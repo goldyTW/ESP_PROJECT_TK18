@@ -1,0 +1,30 @@
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\TOPSUSTIOT2.exe.config
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\TOPSUSTIOT2.exe
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\TOPSUSTIOT2.pdb
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\AdvancedHMIControls.dll
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.csprojResolveAssemblyReference.cache
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.Form1.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.Properties.Resources.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.csproj.GenerateResource.Cache
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.csproj.CoreCompileInputs.cache
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.exe
+C:\Users\samsung\AppData\Local\Temporary Projects\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.pdb
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\TOPSUSTIOT2.exe.config
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\TOPSUSTIOT2.exe
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\TOPSUSTIOT2.pdb
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\AdvancedHMIControls.dll
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\AdvancedHMIDrivers.dll
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.Form1.resources
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.Properties.Resources.resources
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.exe
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\obj\Debug\TOPSUSTIOT2.pdb
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\MySql.Data.dll
+E:\Visual Studio Projects\TOPSUSTIOT2\TOPSUSTIOT2\bin\Debug\MySql.Data.xml

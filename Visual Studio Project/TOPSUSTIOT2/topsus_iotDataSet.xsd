@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="topsus_iotDataSet" targetNamespace="http://tempuri.org/topsus_iotDataSet.xsd" xmlns:mstns="http://tempuri.org/topsus_iotDataSet.xsd" xmlns="http://tempuri.org/topsus_iotDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="topsus_iotConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="topsus_iotConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TOPSUSTIOT2.Properties.Settings.GlobalReference.Default.topsus_iotConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="topsus_iotDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="topsus_iotDataSet" msprop:Generator_UserDSName="topsus_iotDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
