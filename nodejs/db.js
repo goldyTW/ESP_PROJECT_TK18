@@ -10,7 +10,7 @@ var sqlConnection = function sqlConnection(sql, values, next) {
    var connection = mysql.createConnection({
    host: "localhost",
    user: "root",
-   password: "10afterblack25",
+   password: "rahasia",
    database: "iot"
  });
     connection.connect(function(err) {
